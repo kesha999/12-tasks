@@ -1,0 +1,21 @@
+.slider__controls {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+}
+
+.slider__counter {
+	text-align: center;
+}
+
+.slider__copy {
+	margin-left: 40px;
+}
+
+.slider__item {
+	display: none;
+}
+
+.slider__item--active {
+	display: block;
+}
